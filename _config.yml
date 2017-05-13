@@ -13,7 +13,7 @@ description: 'This is my firs site hosted on github.
 
 '
 baseurl: 
-url: http://yourdomain.com
+url: https://mariner-officers-47741.netlify.com
 twitter_username: jekyllrb
-github_username: jekyll
+github_username: Kvirit1
 markdown: kramdown
