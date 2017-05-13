@@ -1,0 +1,19 @@
+---
+title: Hello World
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: Kvirit1@hotmail.com
+description: 'This is my firs site hosted on github.
+
+'
+baseurl: 
+url: http://kvirit1-f13c.siteleaf.net/
+twitter_username: 
+github_username: Kvirit1
+markdown: kramdown
