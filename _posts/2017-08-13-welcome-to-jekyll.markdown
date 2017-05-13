@@ -7,4 +7,5 @@ categories:
 layout: post
 ---
 
+[image.bmp](/uploads/image.bmp)
 Привет всем это тестовая запись в этом блоге :)
