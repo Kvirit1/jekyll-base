@@ -7,5 +7,4 @@ categories:
 layout: post
 ---
 
-[](http://drive.google.com/file/d/0B75zBu6AWNH2bXNJdldORkNHbkU/view?usp=sharing)
 Привет всем это тестовая запись в этом блоге :)
